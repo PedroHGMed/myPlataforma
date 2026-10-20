@@ -1,3 +1,5 @@
+package com.example.demo.model;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
