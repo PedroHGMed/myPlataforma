@@ -58,7 +58,7 @@ public class Disciplina {
         }
 
         if (totalPesos == 0) {
-            return 0;
+            return 0.0;
         }
 
         return totalNotas / totalPesos;
